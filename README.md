@@ -15,6 +15,7 @@ In large-scale optical communication networks, alarms are critical indicators of
 Our Streamlit application provides an end-to-end workflow for network alarm prediction:
 
 * **📤 Data Upload & Exploration**: Upload your own network alarm data in CSV format or use our sample dataset to get started. Preview the data, view summary statistics, and check data quality.
+*  **Have provided a sample of dataset with 1000 rows for demo purpose as the original raw dataset had 3ook+ rows**
     *Image: Data Upload page with a drag-and-drop area and a preview of the alarm data table.*
  <img width="1905" height="1181" alt="image" src="https://github.com/user-attachments/assets/d8268b38-db5b-41c7-9058-b44e1b86fbe8" />
 
