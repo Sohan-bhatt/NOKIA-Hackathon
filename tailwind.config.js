@@ -2,6 +2,7 @@
 export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
+<<<<<<< HEAD
     extend: {
       colors: {
         primary: {
@@ -69,3 +70,9 @@ export default {
   },
   plugins: [],
 };
+=======
+    extend: {},
+  },
+  plugins: [],
+};
+>>>>>>> 0be2f40 (Initial commit: Add project files)
